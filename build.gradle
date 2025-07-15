@@ -22,3 +22,4 @@ dependencies {
 jar {
     archiveBaseName = 'my-app'
     archiveVersion = '1.0-SNAPSHOT'
+}
